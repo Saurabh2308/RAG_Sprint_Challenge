@@ -1,0 +1,10 @@
+faiss-cpu
+numpy
+pandas
+requests
+beautifulsoup4
+tqdm
+sentence-transformers
+transformers
+torch
+openai
